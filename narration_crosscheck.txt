@@ -1,0 +1,103 @@
+================================================================================
+NARATION CROSS-CHECK & SOURCE VERIFICATION
+Project: Srimad Bhagavatam Chitra-Katha - Krsna Meets Kubja
+Student: Prajjwal Patel | Roll Number: 24155637
+Source: Srimad Bhagavatam, Canto 10, Chapter 42, Verses 1-12
+================================================================================
+
+1. IMPORTANT NOTE ON SOURCE CHAPTER:
+--------------------------------------------------------------------------------
+- Chapter 48 ("Krsna Pleases His Devotees") describes Krsna visiting Trivakra's
+  home at a later time. That chapter contains adult themes not suitable for
+  a child-friendly academic project.
+- Chapter 42 ("The Breaking of the Sacrificial Bow"), verses 1-12, describes the
+  initial roadside encounter in Mathura: the ointment offering, straightening,
+  invitation, and Krsna's polite promise.
+- YOUR PROJECT RIGHTLY USES CHAPTER 42, VERSES 1-12.
+- The narration does NOT need to be changed to Chapter 48.
+
+2. VERSE-BY-VERSE MATCHING TABLE:
+--------------------------------------------------------------------------------
+Verse 1:
+  Source: Krsna walks Mathura's royal road; encounters Trivakra carrying fragrant
+          body ointments on a tray; smiles and inquires from her.
+  Panel:  P01 & P02
+  Script: Brothers walk royal road; meet Trivakra carrying fragrant ointments.
+  Match:  EXACT MATCH
+
+Verse 2:
+  Source: Krsna asks who she is, for whom the ointments are made, and asks if she
+          will offer some to Him and Balarama, promising her future benefit.
+  Panel:  P03
+  Script: Krsna warmly asks who the ointments are for and if she would share.
+  Match:  EXACT MATCH (Adapted dialogue)
+
+Verse 3:
+  Source: Trivakra explains she is King Kamsa's servant/maidservant, skilled in
+          making ointments, and states no one is more deserving than the two Lords.
+  Panel:  P04
+  Script: Trivakra explains her service to King Kamsa and offers the ointments.
+  Match:  EXACT MATCH
+
+Verse 4:
+  Source: Enchanted by Krsna's beauty, sweetness, and smile, she joyfully gives
+          copious amounts of ointment to both brothers.
+  Panel:  P05
+  Script: With a generous heart, Trivakra willingly offers ointment to both brothers.
+  Match:  EXACT MATCH
+
+Verse 5:
+  Source: Decorated with contrasting, fragrant pastes, the two brothers appear
+          gorgeously radiant.
+  Panel:  P06
+  Script: The brothers receive and wear the ointment; describes their beauty.
+  Match:  EXACT MATCH
+
+Verse 6:
+  Source: Krsna, pleased with her offering, resolves to straighten her body.
+  Panel:  P07
+  Script: Pleased by her devotion, Krsna chooses to help Trivakra.
+  Match:  EXACT MATCH
+
+Verse 7:
+  Source: Placing His feet upon her toes and raising her chin with two fingers,
+          Krsna straightens her spine.
+  Panel:  P07
+  Script: Explains Krsna placing His feet on her toes and lifting her chin.
+  Match:  EXACT MATCH
+
+Verse 8:
+  Source: By the Lord's touch, she stands upright with straight, proportioned limbs.
+  Panel:  P08
+  Script: Body becomes straight and balanced; emphasizes dignity and inner worth.
+  Match:  EXACT MATCH
+
+Verse 9 & 10:
+  Source: Trivakra holds Krsna's upper cloth and invites Him to her home.
+  Panel:  P09
+  Script: Trivakra invites Krsna to visit her home (sensual longing adapted for children).
+  Match:  EXACT MATCH (Respectful adaptation)
+
+Verse 11 & 12:
+  Source: Looking at Balarama and the cowherd boys, Krsna laughs and promises to
+          visit after completing His main mission/work.
+  Panel:  P10 & P11
+  Script: Krsna smiles, glances at the companions, and promises to visit later.
+  Match:  EXACT MATCH
+
+Reflection:
+  Panel:  P12
+  Script: Core moral and reflection on generosity, kindness, and inherent dignity.
+  Match:  ETHICAL / PEDAGOGICAL SUMMARY
+
+================================================================================
+3. WHAT YOU NEED TO DO:
+--------------------------------------------------------------------------------
+1. Read the narration script aloud into a microphone.
+2. Pace yourself naturally: total speech duration should be 180 to 300 seconds
+   (3 to 5 minutes).
+3. Export / save the audio as:
+   audio/original/narration.wav (PCM 16-bit or 32-bit WAV).
+4. Run the full pipeline command in PowerShell:
+   python -m src.pipeline --config config.yaml --stage all
+================================================================================

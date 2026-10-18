@@ -7,6 +7,11 @@ def validate_subtitles(cues, duration):
         previous=end
     return True
 
-def estimated_scene_error(expected,actual):
-    if len(expected)!=len(actual): raise ValueError("Scene boundary count differs")
-    return max((abs(a-b) for a,b in zip(expected,actual)),default=0.0)*1000
+def estimated_scene_error(expected, actual):
+    if len(expected) != len(actual):
+        raise ValueError("Scene boundary count differs")
+    return round(
+        max((abs(a - b) for a, b in zip(expected, actual)), default=0.0)
+        * 1000,
+        6,
+    )

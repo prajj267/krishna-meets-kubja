@@ -59,7 +59,6 @@ def build_video(story,panels,audio_path,root,cfg):
     metrics["frame_extraction"]=extract(out/"final_comic.mp4",Path(root)/"analysis"/"frame_extractions",cfg["frame_extract_interval_seconds"])
     contact=Path(root)/"analysis"/"frame_extractions"/"contact_sheet.png"
     if contact.exists():
-        import shutil
         shutil.copy2(contact,out/"contact_sheet.png")
     (out/"video_metrics.json").write_text(json.dumps(metrics,indent=2))
     import csv

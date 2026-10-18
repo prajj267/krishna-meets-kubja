@@ -8,3 +8,4 @@ pandas==2.2.3
 pytest==8.3.3
 streamlit==1.39.0
 opencv-python-headless==4.10.0.84
+pyarrow==18.1.0

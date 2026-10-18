@@ -1,0 +1,252 @@
+[
+  {
+    "id": "P01",
+    "title": "Mathurā's royal road",
+    "verses": [
+      1
+    ],
+    "visual": "Kṛṣṇa and Balarāma walk the lively royal road of Mathurā.",
+    "characters": [
+      "Kṛṣṇa",
+      "Balarāma"
+    ],
+    "narration": "In the great city of Mathurā, Kṛṣṇa and His elder brother Balarāma walked along the royal road, seeing the city and meeting its people. Around them, shopkeepers arranged colorful goods and neighbors greeted one another. The city felt busy and bright.",
+    "dialogue": [],
+    "duration": 20,
+    "transition": "fade",
+    "camera": "slow_zoom",
+    "creative": true
+  },
+  {
+    "id": "P02",
+    "title": "A fragrant tray",
+    "verses": [
+      1
+    ],
+    "visual": "Trivakrā, respectfully depicted, carries fragrant ointments on a tray.",
+    "characters": [
+      "Trivakrā",
+      "Kṛṣṇa",
+      "Balarāma"
+    ],
+    "narration": "On the road they met Trivakrā, also called Kubjā. She carried a tray of fragrant ointments she had prepared. Her careful work had brought a pleasant fragrance to the road, and the brothers noticed her tray.",
+    "dialogue": [],
+    "duration": 20,
+    "transition": "crossfade",
+    "camera": "pan_left",
+    "creative": false
+  },
+  {
+    "id": "P03",
+    "title": "A friendly question",
+    "verses": [
+      1,
+      2
+    ],
+    "visual": "Kṛṣṇa speaks warmly to Trivakrā as Balarāma stands nearby.",
+    "characters": [
+      "Kṛṣṇa",
+      "Trivakrā",
+      "Balarāma"
+    ],
+    "narration": "Kṛṣṇa smiled and asked who the ointments were for. He asked whether she might share some with Him and Balarāma. He spoke in a playful and welcoming way, giving her room to answer freely.",
+    "dialogue": [
+      {
+        "speaker": "Kṛṣṇa",
+        "text": "Your tray smells lovely. Would you share some with us?"
+      }
+    ],
+    "duration": 20,
+    "transition": "cut",
+    "camera": "slow_zoom",
+    "creative": true
+  },
+  {
+    "id": "P04",
+    "title": "Trivakrā's work",
+    "verses": [
+      3
+    ],
+    "visual": "Trivakrā explains her work, holding the tray carefully.",
+    "characters": [
+      "Trivakrā"
+    ],
+    "narration": "Trivakrā explained that she served King Kaṁsa and was valued for making the ointments.",
+    "dialogue": [
+      {
+        "speaker": "Trivakrā",
+        "text": "I make these ointments in the king's service. Please accept them."
+      }
+    ],
+    "duration": 20,
+    "transition": "crossfade",
+    "camera": "pan_right",
+    "creative": true
+  },
+  {
+    "id": "P05",
+    "title": "A generous offering",
+    "verses": [
+      4
+    ],
+    "visual": "Trivakrā willingly offers ointment to both brothers.",
+    "characters": [
+      "Trivakrā",
+      "Kṛṣṇa",
+      "Balarāma"
+    ],
+    "narration": "With a generous heart, Trivakrā offered a good amount of ointment to Kṛṣṇa and Balarāma. It was her willing gift.",
+    "dialogue": [],
+    "duration": 20,
+    "transition": "fade",
+    "camera": "slow_zoom",
+    "creative": false
+  },
+  {
+    "id": "P06",
+    "title": "The brothers receive it",
+    "verses": [
+      5
+    ],
+    "visual": "The brothers receive the ointment in a warm storybook scene.",
+    "characters": [
+      "Kṛṣṇa",
+      "Balarāma"
+    ],
+    "narration": "The brothers accepted the fragrant cosmetics. The text describes how beautiful they looked adorned with the ointment. The story describes their appearance, not the value of any person standing beside them.",
+    "dialogue": [],
+    "duration": 20,
+    "transition": "crossfade",
+    "camera": "pan_left",
+    "creative": true
+  },
+  {
+    "id": "P07",
+    "title": "A compassionate response",
+    "verses": [
+      6,
+      7
+    ],
+    "visual": "Kṛṣṇa gently helps Trivakrā stand upright in a dignified composition.",
+    "characters": [
+      "Kṛṣṇa",
+      "Trivakrā"
+    ],
+    "narration": "Pleased by her offering, Kṛṣṇa chose to help Trivakrā. The chapter describes Him placing His feet on her toes, lifting her chin, and straightening her body.",
+    "dialogue": [],
+    "duration": 25,
+    "transition": "fade",
+    "camera": "slow_zoom",
+    "creative": false
+  },
+  {
+    "id": "P08",
+    "title": "A changed posture",
+    "verses": [
+      8
+    ],
+    "visual": "Trivakrā stands upright, meeting others' gaze with a joyful expression.",
+    "characters": [
+      "Trivakrā",
+      "Kṛṣṇa",
+      "Balarāma"
+    ],
+    "narration": "By Kṛṣṇa's touch, Trivakrā's body became straight and balanced. She stood upright. Her dignity and worth had always been her own. Those watching could see a remarkable change, while Trivakrā remained the same person with her skills and generous spirit.",
+    "dialogue": [],
+    "duration": 25,
+    "transition": "crossfade",
+    "camera": "slow_zoom",
+    "creative": true
+  },
+  {
+    "id": "P09",
+    "title": "An invitation",
+    "verses": [
+      9,
+      10
+    ],
+    "visual": "Trivakrā invites Kṛṣṇa to her home.",
+    "characters": [
+      "Trivakrā",
+      "Kṛṣṇa"
+    ],
+    "narration": "Trivakrā was joyful and invited Kṛṣṇa to visit her home. The original passage includes her strong longing; this child-friendly retelling keeps the invitation simple. Her invitation came after an unusual meeting, and Kṛṣṇa answered her directly and kindly.",
+    "dialogue": [
+      {
+        "speaker": "Trivakrā",
+        "text": "Please visit my home. I would be happy to welcome you."
+      }
+    ],
+    "duration": 25,
+    "transition": "fade",
+    "camera": "pan_right",
+    "creative": true
+  },
+  {
+    "id": "P10",
+    "title": "Kṛṣṇa replies",
+    "verses": [
+      11,
+      12
+    ],
+    "visual": "Kṛṣṇa replies while Balarāma and the cowherd boys look on.",
+    "characters": [
+      "Kṛṣṇa",
+      "Balarāma",
+      "Trivakrā"
+    ],
+    "narration": "Kṛṣṇa glanced at Balarāma and the cowherd boys, then answered with a laugh. He said He would come after completing His purpose.",
+    "dialogue": [
+      {
+        "speaker": "Kṛṣṇa",
+        "text": "I will visit after I have finished my work."
+      }
+    ],
+    "duration": 25,
+    "transition": "crossfade",
+    "camera": "slow_zoom",
+    "creative": true
+  },
+  {
+    "id": "P11",
+    "title": "A peaceful pause",
+    "verses": [
+      4,
+      6,
+      12
+    ],
+    "visual": "The three share a peaceful moment on Mathurā's street before the scene fades.",
+    "characters": [
+      "Kṛṣṇa",
+      "Balarāma",
+      "Trivakrā"
+    ],
+    "narration": "The meeting comes to a gentle close. Trivakrā has shared what she made, and Kṛṣṇa has responded to her with care. It is a reminder that a sincere offering can begin a meaningful exchange between people.",
+    "dialogue": [],
+    "duration": 20,
+    "transition": "fade",
+    "camera": "pan_left",
+    "creative": true
+  },
+  {
+    "id": "P12",
+    "title": "A reflection",
+    "verses": [
+      4,
+      6,
+      12
+    ],
+    "visual": "A warm storybook closing view of the city and its people.",
+    "characters": [
+      "Kṛṣṇa",
+      "Balarāma",
+      "Trivakrā"
+    ],
+    "narration": "What can we learn? We can be generous, speak kindly, and honor every person's dignity. A person's worth is never measured by appearance.",
+    "dialogue": [],
+    "duration": 20,
+    "transition": "fade",
+    "camera": "slow_zoom",
+    "creative": true
+  }
+]

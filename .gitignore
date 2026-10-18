@@ -1,4 +1,4 @@
-﻿# Python
+# Python
 .venv/
 venv/
 __pycache__/
@@ -18,8 +18,24 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
-# Generated project artifacts
+# Generated project artifacts (track key report and comic deliverables)
 output/*
 !output/.gitkeep
+!output/technical_report.pdf
+!output/comic.pdf
+!output/cover.png
+!output/comic_contact_sheet.png
 analysis/*
 !analysis/.gitkeep
+
+
+# Generated audio derivatives
+audio/processed/*
+audio/final_mix.wav
+audio/original/original.wav
+
+# Archives & temporary extract folders
+assets/panels/*.zip
+assets/panels/krishna_kubja_panels/
+
+
