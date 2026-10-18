@@ -1,0 +1,1 @@
+Supply twelve 16:9 PNG illustrations here as panel_01.png through panel_12.png. Consistent reusable character designs are recommended. Until supplied, the pipeline creates visibly labeled layout drafts, not finished artwork.

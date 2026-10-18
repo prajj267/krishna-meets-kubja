@@ -1,0 +1,14 @@
+project_title: Śrīmad Bhāgavatam Chitra-Katha
+episode_title: Kṛṣṇa Meets Kubjā
+student_name: "[STUDENT_NAME]"
+roll_number: "[ROLL_NUMBER]"
+course: Speech and Video Processing
+source_url: https://vedabase.io/en/library/sb/10/42/
+root: .
+sample_rate: 44100
+video_width: 1280
+video_height: 720
+fps: 24
+target_duration_seconds: 240
+noise_filter_cutoff_hz: 80
+frame_extract_interval_seconds: 10
